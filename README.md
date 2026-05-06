@@ -35,7 +35,7 @@ PersonalWeb/
 
 ## License
 
-© 2025 Scarpy. All rights reserved.
+© 2026 Scarpy. All rights reserved.
 
 ## Credits
 
